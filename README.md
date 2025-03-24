@@ -59,5 +59,5 @@ This simplified README provides a good starting point for understanding the code
 
 
 *Disclaimer*
-This read me was a product of Github Copilot 
+This read me was a product of Github Copilot -
 Austin
